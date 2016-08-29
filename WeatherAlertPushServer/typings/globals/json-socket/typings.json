@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/fe60d9dfedd270e1783deeb55ede02fb88ff8754/json-socket/json-socket.d.ts",
+    "raw": "registry:dt/json-socket#0.1.2+20160417160709",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/fe60d9dfedd270e1783deeb55ede02fb88ff8754/json-socket/json-socket.d.ts"
+  }
+}

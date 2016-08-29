@@ -1,0 +1,17 @@
+{
+    "name": "weather-alert-push-server",
+    "version": "1.0.0",
+    "description": "use tcp socket server receiver weather infomation",
+    "main": "app.js",
+    "author": {
+        "name": "eason_wang",
+        "email": ""
+    },
+    "dependencies": {
+        "async": "2.0.1",
+        "moment": "2.14.1",
+        "nodemailer": "0.7.1",
+        "request": "^2.74.0",
+        "rwlock": "5.0.0"
+    }
+}
